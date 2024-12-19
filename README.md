@@ -82,7 +82,7 @@ python show-all.py --custom_output_path path/to/output.obj --custom_original_pat
 
 ## **Contributors**
 
-- **Joshua Fantillo**  
+- **Joshua Fantillo**  (josfantillo@gmail.com)
 - **John Ordoyo**  
 - **Silas Myrrh**  
 
