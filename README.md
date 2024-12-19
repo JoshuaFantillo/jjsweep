@@ -83,7 +83,7 @@ python show-all.py --custom_output_path path/to/output.obj --custom_original_pat
 ## **Contributors**
 
 - **Joshua Fantillo**  (josfantillo@gmail.com)
-- **John Ordoyo**  
+- **John Ordoyo**  (gtom_1984@hotmail.ca)
 - **Silas Myrrh**  
 
 This implementation incorporates concepts and code adapted from CMPT464/764 assignments (Fall 2024) at Simon Fraser University, focusing on primitive shape abstraction and neural network-based spherical fitting techniques.
